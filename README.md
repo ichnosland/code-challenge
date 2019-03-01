@@ -1,6 +1,6 @@
 # Save the boat
 
-It's a sunny sunday and Alessandra is on a boat trip on her bow rider.
+It's a sunny sunday and Alessandra is on a boat trip on her yacht.
 Unfortunately the engine stops and she is sending an SOS signal.
 
 She's far away from the coast and the signal is degraded and gets
