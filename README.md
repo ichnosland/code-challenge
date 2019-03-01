@@ -6,7 +6,7 @@ Unfortunately the engine stops and she is sending an SOS signal.
 She's far away from the coast and the signal is degraded and gets
 corrupted, e.g. MOSSOS is received instead of the SOSSOS sent.
 
-Implement a send_help function that takes a string and returns the
+Implement a `sendHelp` function that takes a string and returns the
 number of letters corrupted.
 Please add some tests to check it's working fine.
 
@@ -19,9 +19,9 @@ Please add some tests to check it's working fine.
 ## Example
 
 ```
-send_help('MOS')
+sendHelp('MOS')
 1
 
-send_help('SOS')
+sendHelp('SOS')
 0
 ```
